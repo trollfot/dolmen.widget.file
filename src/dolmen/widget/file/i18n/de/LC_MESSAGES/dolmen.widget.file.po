@@ -12,24 +12,24 @@ msgstr ""
 #: dolmen.widget.file:widget.py:64
 #. Default: "Download"
 msgid "download"
-msgstr "Télécharger"
+msgstr "Download"
 
 #: dolmen.widget.file:/templates/display.pt:9
 #. Default: "No file"
 msgid "no_file"
-msgstr "Aucun fichier"
+msgstr "Keine Datei"
 
 #: dolmen.widget.file:/templates/input.pt:24
 #. Default: "Keep existing file"
 msgid "file_keep"
-msgstr "Garder le fichier existant"
+msgstr "Ausgewählte Datei behalten"
 
 #: dolmen.widget.file:/templates/input.pt:36
 #. Default: "Delete existing file"
 msgid "file_delete"
-msgstr "Effacer le fichier existant"
+msgstr "Ausgewählte Datei löschen"
 
 #: dolmen.widget.file:/templates/input.pt:46
 #. Default: "Replace with new file"
 msgid "file_replace"
-msgstr "Remplacer le fichier existant"
+msgstr "Mit neuer Datei ersetzen"
