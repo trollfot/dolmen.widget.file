@@ -1,5 +1,0 @@
-
-      # -*- Entry points: -*-
-      [zeam.form.components]
-      file = dolmen.widget.file.widget:register
-      
